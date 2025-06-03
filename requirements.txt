@@ -1,6 +1,5 @@
 streamlit
 torch>=2.0
 transformers==4.40.0
-sentencepiece
 selenium
 webdriver-manager
